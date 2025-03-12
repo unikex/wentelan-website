@@ -7,8 +7,7 @@ import Footer from '@/components/layout/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: '文特蘭補習班 菓林分校',
-  description: '提供优质课后辅导服务，帮助学生提升学习成绩，培养良好学习习惯。',
+  title: '文特蘭補習班 菓林分校'
 };
 
 export default function RootLayout({
